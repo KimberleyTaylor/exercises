@@ -25,22 +25,14 @@
 ## Table of contents
 * 👨 [Team](#Team)
 * <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> [Technologies](#Technologies)
-* <a href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn0.iconfinder.com%2Fdata%2Ficons%2Fsmall-v6%2F512%2Frecycle_refresh_reload_repeat_sync_synchronisation-512.png&f=1&nofb=1">
-  <img align="left" alt="Syncing" width="20px" />
-</a> [Syncing](#Syncing)  
-* <a href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.asGuiTmMldMn__FniFN9TwHaEa%26pid%3DApi&f=1">
-  <img align="left" alt="Collaborate" width="20px" />
-</a> [Guide to Collaborate](#Guide To Collaborate)
-* <a href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Fuov8zowiWmuLTgTqG57rQHaHa%26pid%3DApi&f=1">
-  <img align="left" alt="Project Status" width="20px" />
-</a> [Project Status](#Project Status)
-* <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> [Special Thanks](#Special Thanks)
+* <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> [Syncing](#Syncing)  
+* :package: [Guide to Collaborate](#Guide To Collaborate)
+* :hammer_and_pick: [Project Status](#Project Status)
+* <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> [Special Thanks](#Special Thanks)
 
 ***
 
-### Team: <a href="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fescapeoldtowne.com%2Fwp-content%2Fuploads%2F2017%2F07%2Fteam-building-rimini2.jpg&f=1&nofb=1">
-  <img align="left" alt="Team" width="30px" />
-</a>
+### Team:
     
 > - [Kimberley](https://github.com/T-A-Y-L-O-R-S-T-R-I-V-E/)
 >
@@ -135,6 +127,6 @@ Ongoing. Day 3 of 5 complete!
 ### Special Thanks
 This project would not be possible without **Jan** or **Antonio.** Thankyou!
     <a href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.alleywatch.com%2Fwp-content%2Fuploads%2F2020%2F11%2FStrive-School.jpg&f=1&nofb=1">
-  <img align="right" alt="Strive" width="500px" />
-</a>
+    <img align="right" alt="Strive" width="500px" />
+    </a>
 
