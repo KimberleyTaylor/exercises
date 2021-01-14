@@ -21,7 +21,7 @@
 > Be sure to read the GUIDE HOW TO COLLAB.txt file before pushing anything!
 
 ***
-
+<span style="color:blue">## Table of contents</span>
 ## Table of contents
 * 👨 [Team](#Team)
 * <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> [Technologies](#Technologies)
@@ -83,7 +83,7 @@ Project is created with:
 
 ***
 
-## [Guide To Collaborate](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.asGuiTmMldMn__FniFN9TwHaEa%26pid%3DApi&f=1)
+## [Guide To Collaborate]
 
 1) git clone https://github.com/lorenzodemiri/Project_Snape.git
 
