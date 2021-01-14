@@ -24,25 +24,25 @@
 
 ## Table of contents
 * 👨 [Team](#Team)
-* <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> [Technologies](#Technologies)
-* <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> [Syncing](#Syncing)  
+* <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> [Technologies](#Technologies)
+* <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> [Syncing](#Syncing)  
 * :package: [Guide to Collaborate](#Guide To Collaborate)
 * :hammer_and_pick: [Project Status](#Project Status)
-* <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> [Special Thanks](#Special Thanks)
+* <code><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"><code> [Special Thanks](#Special Thanks)
 
 ***
 
-### Team:
+## Team:
     
-> - [Kimberley](https://github.com/T-A-Y-L-O-R-S-T-R-I-V-E/)
+> [Kimberley](https://github.com/T-A-Y-L-O-R-S-T-R-I-V-E/)
 >
-> - [Bence](https://github.com/kovacsbelsen)
+> [Bence](https://github.com/kovacsbelsen)
 >
-> - [Luca](https://github.com/lpianta)
+> [Luca](https://github.com/lpianta)
 >
-> - [Zakariya](https://github.com/ZakariyaM27/)
+> [Zakariya](https://github.com/ZakariyaM27/)
 >
-> - [Lorenzo](https://github.com/lorenzodemiri)
+> [Lorenzo](https://github.com/lorenzodemiri)
 
 ***
     
@@ -126,7 +126,6 @@ Ongoing. Day 3 of 5 complete!
 
 ### Special Thanks
 This project would not be possible without **Jan** or **Antonio.** Thankyou!
-    <a href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.alleywatch.com%2Fwp-content%2Fuploads%2F2020%2F11%2FStrive-School.jpg&f=1&nofb=1">
-    <img align="right" alt="Strive" width="500px" />
-    </a>
-
+<p align="center">
+<img align="center" alt="Strive" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.alleywatch.com%2Fwp-content%2Fuploads%2F2020%2F11%2FStrive-School.jpg&f=1&nofb=1" />
+</p>
