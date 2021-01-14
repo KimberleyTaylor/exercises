@@ -1,12 +1,11 @@
-# Project_Snape!
+# Project_Snape! 🚀
 <a href="https://timelinecovers.pro/covers/movies-and-tv/harry-potter-alan-rickman-severus-snape_facebook-cover-photo">
-  <img align="right" alt="Snape" width="100px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.DAs3Z5CIy8a46qNqLXzyLAHaCv%26pid%3DApi&f=1" />
+  <img align="right" alt="Snape" width="500px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.DAs3Z5CIy8a46qNqLXzyLAHaCv%26pid%3DApi&f=1" />
     
 <a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=lorenzodemiri.Project_Snape)
-🚀
+  
 ***
 
 **Webscraping and analyzing data from [GoodReads](www.goodreads.com)
@@ -30,18 +29,19 @@
   <img align="left" alt="Syncing" width="20px" />
 </a> [Syncing](#Syncing)  
 * <a href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.asGuiTmMldMn__FniFN9TwHaEa%26pid%3DApi&f=1">
-  <img align="left" alt="Syncing" width="20px" />
+  <img align="left" alt="Collaborate" width="20px" />
 </a> [Guide to Collaborate](#Guide To Collaborate)
 * <a href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Fuov8zowiWmuLTgTqG57rQHaHa%26pid%3DApi&f=1">
-  <img align="left" alt="Syncing" width="20px" />
+  <img align="left" alt="Project Status" width="20px" />
 </a> [Project Status](#Project Status)
 * <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> [Special Thanks](#Special Thanks)
 
 ***
 
 ### Team: <a href="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fescapeoldtowne.com%2Fwp-content%2Fuploads%2F2017%2F07%2Fteam-building-rimini2.jpg&f=1&nofb=1">
-  <img align="left" alt="Syncing" width="30px" />
+  <img align="left" alt="Team" width="30px" />
 </a>
+    
 > - [Kimberley](https://github.com/T-A-Y-L-O-R-S-T-R-I-V-E/)
 >
 > - [Bence](https://github.com/kovacsbelsen)
@@ -71,9 +71,7 @@ Project is created with:
 
 ***
 
-## [Syncing] <a href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn0.iconfinder.com%2Fdata%2Ficons%2Fsmall-v6%2F512%2Frecycle_refresh_reload_repeat_sync_synchronisation-512.png&f=1&nofb=1">
-  <img align="left" alt="Syncing" width="40px" />
-</a>
+## Syncing
 
 1) Before starting the work of the day you have to sync with the last version of the MAIN BRANCH
 
@@ -136,5 +134,7 @@ Ongoing. Day 3 of 5 complete!
 
 ### Special Thanks
 This project would not be possible without **Jan** or **Antonio.** Thankyou!
-![Strive](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.alleywatch.com%2Fwp-content%2Fuploads%2F2020%2F11%2FStrive-School.jpg&f=1&nofb=1)
+    <a href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.alleywatch.com%2Fwp-content%2Fuploads%2F2020%2F11%2FStrive-School.jpg&f=1&nofb=1">
+  <img align="right" alt="Strive" width="500px" />
+</a>
 
