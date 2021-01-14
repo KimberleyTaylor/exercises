@@ -21,13 +21,15 @@
 > Be sure to read the GUIDE HOW TO COLLAB.txt file before pushing anything!
 
 ***
-<span style="color:blue">## Table of contents</span>
+
 ## Table of contents
 * 👨 [Team](#Team)
 * <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> [Technologies](#Technologies)
 * <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> [Syncing](#Syncing)  
-* :package: [Guide to Collaborate](#Guide To Collaborate)
-* :hammer_and_pick: [Project Status](#Project Status)
+* :package:
+    [Guide to Collaborate](#Guide To Collaborate)
+* :hammer_and_pick:
+    [Project Status](#Project Status)
 * <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> [Special Thanks](#Special Thanks)
 
 ***
