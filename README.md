@@ -1,8 +1,8 @@
 # Project_Snape! 🚀 
-![Badge1](https://img.shields.io/symfony/i/stars/lorenzodemiri%20/Project_Snape?color=Black&style=plastic&logo=appveyor)
-![Badge2](https://img.shields.io/github/issues-pr-raw/lorenzodemiri%20//Project_Snape?color=Black&style=plastic&logo=appveyor)
-![Badge3](https://img.shields.io/github/v/tag/lorenzodemiri//Project_Snape?color=black&style=plastic&logo=appveyor)
-![Badge4](https://img.shields.io/github/commit-activity/w/lorenzodemiri%20//Project_Snape?color=black&style=plastic&logo=appveyor)
+!(https://img.shields.io/symfony/i/stars/lorenzodemiri%20/Project_Snape?color=Black&style=plastic&logo=appveyor)
+!(https://img.shields.io/github/issues-pr-raw/lorenzodemiri%20//Project_Snape?color=Black&style=plastic&logo=appveyor)
+!(https://img.shields.io/github/v/tag/lorenzodemiri//Project_Snape?color=black&style=plastic&logo=appveyor)
+![](https://img.shields.io/github/commit-activity/w/lorenzodemiri%20//Project_Snape?color=black&style=plastic&logo=appveyor)
 ![Badge5](https://img.shields.io/badge/Snape-Wins-critical?color=black&style=plastic&logo=appveyor)
 
 <a href="https://timelinecovers.pro/covers/movies-and-tv/harry-potter-alan-rickman-severus-snape_facebook-cover-photo">
@@ -42,7 +42,7 @@
 
 ## Team:
     
-> [Kimberley](https://github.com/T-A-Y-L-O-R-S-T-R-I-V-E/) :github:
+> [Kimberley](https://github.com/T-A-Y-L-O-R-S-T-R-I-V-E/)
 >
 > [Bence](https://github.com/kovacsbelsen)
 >
@@ -67,7 +67,7 @@ Texting Dad      17 mins            █░░░░░░░░░░░░░�
 
 ## Technologies
 Project is created with:
-* [Python version: 3.9.1](https://www.python.org/downloads/) <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+* [Python version: 3.9.1](https://www.python.org/downloads/) <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 * Pandas==1.1.5
 * Streamlit==0.74.1
 * Distfit==1.1.6
