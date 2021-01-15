@@ -39,7 +39,7 @@
 
 ## Team :two_men_holding_hands:
     
-> ![KimGit](https://img.shields.io/badge/Kimberley-Git-blue&?style=plastic&logo=github&?labelColor=grey&?logoWidth=200&?link=https://github.com/T-A-Y-L-O-R-S-T-R-I-V-E/left&link=https://github.com/T-A-Y-L-O-R-S-T-R-I-V-E/right)
+> ![KimGit](https://img.shields.io/badge/Kimberley-Git-blue&?style=plastic&logo=github&?labelColor=grey&?logoWidth=200&?link=https://github.com/T-A-Y-L-O-R-S-T-R-I-V-E/left&link=https://github.com/T-A-Y-L-O-R-S-T-R-I-V-E/right)  ![GIF_Team](https://media.giphy.com/media/fU4elxKlRsulB4Jy7w/giphy.gif)
 >
 > ![BenceGit](https://img.shields.io/badge/Bence-Git-blue&?style=plastic&logo=github&?labelColor=grey&?logoWidth=200&?link=https://github.com/kovacsbelsen/left&link=https://github.com/kovacsbelsen/right)
 >
@@ -64,7 +64,7 @@ Texting Dad      17 mins            █░░░░░░░░░░░░░�
 
 ## Technologies :floppy_disk:
 Project is created with:
-* [Python version: 3.9.1](https://www.python.org/downloads/)  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+* [Python version: 3.9.1](https://www.python.org/downloads/)  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />   ![GIF_Graph](https://media.giphy.com/media/3orieVe5VYqTdT16qk/giphy.gif)
 * [Pandas version: 1.1.5](https://pandas.pydata.org/)  <img height="30" src="https://pandas.pydata.org/static/img/pandas_white.svg" />
 * [Streamlit version: 0.74.1](https://www.streamlit.io/)  <img height="20" src="https://assets.website-files.com/5dc3b47ddc6c0c2a1af74ad0/5e0a328bedb754beb8a973f9_logomark_website.png" />
 * [Matplotlib version: 3.3.0](https://matplotlib.org/)  <img height="20" src="https://matplotlib.org/_static/logo2_compressed.svg" /> 
@@ -77,7 +77,7 @@ Project is created with:
 
 1) Before starting the work of the day you have to sync with the last version of the MAIN BRANCH
 
-2) git pull origin main
+2) git pull origin main   ![Gif](https://media.giphy.com/media/5BrdG6bhBZkaY/giphy.gif)
 
 3) git checkout "*YOURBRANCHNAME*"
 
@@ -130,8 +130,8 @@ Project is created with:
 ***
 
 ## Project Status :alarm_clock:
-Ongoing... Day 4 of 5 complete!            ![Gif](https://media.giphy.com/media/5BrdG6bhBZkaY/giphy.gif)
-
+Ongoing... Day 4 of 5 complete!
+    ![Gif_Bye](https://media.giphy.com/media/8l1UFvNSS5SwM/giphy.gif)
 ***
     
 
