@@ -4,17 +4,12 @@
 ![Badge3](https://img.shields.io/badge/Followers-10%2C000%2C000-green&style=plastic&logo=appveyor&?labelColor=grey)
 ![Badge4](https://img.shields.io/badge/GithubCommits-50%2C000-black&style=plastic&logo=appveyor&?labelColor=grey)
 ![Badge5](https://img.shields.io/badge/Snape-Wins-critical?color=black&style=plastic&logo=appveyor&?labelColor=grey)
-
-
-<img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
   
 ***
 
 **Webscraping and analyzing data from [GoodReads](www.goodreads.com)
     of the Best Books of the 20th Century.**
-<img align="center" height="250" width=700 src="https://media.giphy.com/media/5BrdG6bhBZkaY/giphy.gif" />
-<a href="https://discord.gg/XTW52Kt" /> 
+<img align="right" alt="Snape" width="851" height="315" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6f304c4e-1245-4fe2-abe2-9f5963d2980e/dbv5rv2-762301dc-66b7-47c9-9d65-d2e638f298b2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi82ZjMwNGM0ZS0xMjQ1LTRmZTItYWJlMi05ZjU5NjNkMjk4MGUvZGJ2NXJ2Mi03NjIzMDFkYy02NmI3LTQ3YzktOWQ2NS1kMmU2MzhmMjk4YjIucG5nIn1dXX0.4c__IG_kvtXqQ_cq_G09SRe5ri7SMmJ6zegUFVfgyfc" />
     
 ***
 
@@ -134,5 +129,4 @@ Ongoing... Day 4 of 5 complete!
 ### Special Thanks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
 This project **WOULD NOT** be possible without [**Jan**](https://github.com/jcllobet) or [**Antonio**.](https://github.com/AntonioMarsella) Thankyou!
 <img align="left" height="50" alt="Strive" src="https://strive.school/assets/strive_logo02.png" />
-
-<img align="right" alt="Snape" width="851" height="315" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6f304c4e-1245-4fe2-abe2-9f5963d2980e/dbv5rv2-762301dc-66b7-47c9-9d65-d2e638f298b2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi82ZjMwNGM0ZS0xMjQ1LTRmZTItYWJlMi05ZjU5NjNkMjk4MGUvZGJ2NXJ2Mi03NjIzMDFkYy02NmI3LTQ3YzktOWQ2NS1kMmU2MzhmMjk4YjIucG5nIn1dXX0.4c__IG_kvtXqQ_cq_G09SRe5ri7SMmJ6zegUFVfgyfc" />
+<img align="center" height="300" width=700 src="https://media.giphy.com/media/5BrdG6bhBZkaY/giphy.gif" />
