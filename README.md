@@ -1,11 +1,11 @@
 # Project_Snape! 🚀 
+
 ![Badge2](https://img.shields.io/badge/Pull%20Requests-472-green&style=plastic&logo=appveyor&?labelColor=grey)
 ![Badge3](https://img.shields.io/badge/Followers-10%2C000%2C000-green&style=plastic&logo=appveyor&?labelColor=grey)
 ![Badge4](https://img.shields.io/badge/GithubCommits-50%2C000-black&style=plastic&logo=appveyor&?labelColor=grey)
 ![Badge5](https://img.shields.io/badge/Snape-Wins-critical?color=black&style=plastic&logo=appveyor&?labelColor=grey)
 
-<img height="300" width=500 src="https://media.giphy.com/media/5BrdG6bhBZkaY/giphy.gif" />
-<a href="https://discord.gg/XTW52Kt">
+
   <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
   
@@ -13,9 +13,8 @@
 
 **Webscraping and analyzing data from [GoodReads](www.goodreads.com)
     of the Best Books of the 20th Century.**
-<a href="https://www.goodreads.com/">
-  <img align="right" alt="GoodReads" width="22px" src="https://s.gr-assets.com/assets/award/2020/landing-page/masthead-text-35d08fd320132f25beace5d368cfd83d.svg" />
-</a>    
+<img align="center" height="500" width=700 src="https://media.giphy.com/media/5BrdG6bhBZkaY/giphy.gif" />
+<a href="https://discord.gg/XTW52Kt" /> 
     
 ***
 
@@ -137,4 +136,4 @@ This project *WOULD NOT* be possible without [**Jan**](https://github.com/jcllob
 <img align="left" height="50" alt="Strive" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.alleywatch.com%2Fwp-content%2Fuploads%2F2020%2F11%2FStrive-School.jpg&f=1&nofb=1" />
 
 <a href="https://timelinecovers.pro/covers/movies-and-tv/harry-potter-alan-rickman-severus-snape_facebook-cover-photo">
-  <img align="right" alt="Snape" width="500px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.DAs3Z5CIy8a46qNqLXzyLAHaCv%26pid%3DApi&f=1" />
+  <img align="right" alt="Snape" width="1000" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.DAs3Z5CIy8a46qNqLXzyLAHaCv%26pid%3DApi&f=1" />
