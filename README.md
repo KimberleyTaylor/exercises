@@ -7,14 +7,17 @@
   
 ***
 
-**Webscraping and analyzing data from [GoodReads](www.goodreads.com)
+> **Webscraping and analyzing data from [GoodReads](www.goodreads.com)
     of the Best Books of the 20th Century.**
 >
 >
-<img align="right" alt="Snape" width="700" height="250" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6f304c4e-1245-4fe2-abe2-9f5963d2980e/dbv5rv2-762301dc-66b7-47c9-9d65-d2e638f298b2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi82ZjMwNGM0ZS0xMjQ1LTRmZTItYWJlMi05ZjU5NjNkMjk4MGUvZGJ2NXJ2Mi03NjIzMDFkYy02NmI3LTQ3YzktOWQ2NS1kMmU2MzhmMjk4YjIucG5nIn1dXX0.4c__IG_kvtXqQ_cq_G09SRe5ri7SMmJ6zegUFVfgyfc" />
-    
+>
+> <img align="right" alt="Snape" width="700" height="250" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6f304c4e-1245-4fe2-abe2-9f5963d2980e/dbv5rv2-762301dc-66b7-47c9-9d65-d2e638f298b2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi82ZjMwNGM0ZS0xMjQ1LTRmZTItYWJlMi05ZjU5NjNkMjk4MGUvZGJ2NXJ2Mi03NjIzMDFkYy02NmI3LTQ3YzktOWQ2NS1kMmU2MzhmMjk4YjIucG5nIn1dXX0.4c__IG_kvtXqQ_cq_G09SRe5ri7SMmJ6zegUFVfgyfc" />
+>  
+
 ***
 
+>
 > **Important info:**
 >
 > :pencil: Be sure to read the GUIDE HOW TO COLLAB.txt file before pushing anything!
