@@ -39,15 +39,15 @@
 
 ## Team:
     
-> [Kimberley](https://github.com/T-A-Y-L-O-R-S-T-R-I-V-E/) ![KimGit](https://img.shields.io/badge/Kimberley-Git-blue&?style=plastic&logo=github&?labelColor=grey&?logoWidth=40&?link=https://github.com/T-A-Y-L-O-R-S-T-R-I-V-E/left&link=https://github.com/T-A-Y-L-O-R-S-T-R-I-V-E/right)
+> ![KimGit](https://img.shields.io/badge/Kimberley-Git-blue&?style=plastic&logo=github&?labelColor=grey&?logoWidth=100&?link=https://github.com/T-A-Y-L-O-R-S-T-R-I-V-E/left&link=https://github.com/T-A-Y-L-O-R-S-T-R-I-V-E/right)
 >
-> [Bence](https://github.com/kovacsbelsen)
+> ![BenceGit](https://img.shields.io/badge/Bence-Git-blue&?style=plastic&logo=github&?labelColor=grey&?logoWidth=100&?link=https://github.com/kovacsbelsen/left&link=https://github.com/kovacsbelsen/right)
 >
-> [Luca](https://github.com/lpianta)
+> ![LucaGit](https://img.shields.io/badge/Luca-Git-blue&?style=plastic&logo=github&?labelColor=grey&?logoWidth=100&?link=https://github.com/lpianta/left&link=https://github.com/lpianta/right)
 >
-> [Zakariya](https://github.com/ZakariyaM27/)
+> ![ZakariyaGit](https://img.shields.io/badge/Luca-Git-blue&?style=plastic&logo=github&?labelColor=grey&?logoWidth=100&?link=https://github.com/ZakariyaM27/left&link=https://github.com/ZakariyaM27/right)
 >
-> [Lorenzo](https://github.com/lorenzodemiri)
+> ![LorenzoGit](https://img.shields.io/badge/Luca-Git-blue&?style=plastic&logo=github&?labelColor=grey&?logoWidth=100&?link=https://github.com/lorenzodemiri/left&link=https://github.com/lorenzodemiri/right)
 
 ***
     
