@@ -3,6 +3,7 @@
 ![Badge3](https://img.shields.io/badge/Followers-10%2C000%2C000-green&style=plastic&logo=appveyor&?labelColor=grey)
 ![Badge4](https://img.shields.io/badge/GithubCommits-50%2C000-black&style=plastic&logo=appveyor&?labelColor=grey)
 ![Badge5](https://img.shields.io/badge/Snape-Wins-critical?color=black&style=plastic&logo=appveyor&?labelColor=grey)
+!["He will never know..." - Jan](https://github-readme-quotes.herokuapp.com/quote?theme=vue-dark&?animation=grow_out_in&?layout=zues)
 
 <a href="https://timelinecovers.pro/covers/movies-and-tv/harry-potter-alan-rickman-severus-snape_facebook-cover-photo">
   <img align="right" alt="Snape" width="500px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.DAs3Z5CIy8a46qNqLXzyLAHaCv%26pid%3DApi&f=1" />
@@ -31,9 +32,9 @@
 * 👨 [Team](#Team)
 * <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> [Technologies](#Technologies)
 * <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> [Syncing](#Syncing)  
-* [Guide to Collaborate](#Guide_To_Collaborate)
+* :hammer: [Guide to Collaborate](#Guide_To_Collaborate)
 * [Project Status](#Project_Status)
-* <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" /> [Special_Thanks](#Special Thanks)
+* <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" /> [Special Thanks](#Special_Thanks)
 
 ***
 
