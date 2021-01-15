@@ -1,4 +1,10 @@
-# Project_Snape! 🚀
+# Project_Snape! 🚀 
+![Badge1](https://img.shields.io/symfony/i/stars/lorenzodemiri%20/Project_Snape?color=Black&style=plastic&logo=appveyor)
+![Badge2](https://img.shields.io/github/issues-pr-raw/lorenzodemiri%20//Project_Snape?color=Black&style=plastic&logo=appveyor)
+![Badge3](https://img.shields.io/github/v/tag/lorenzodemiri//Project_Snape?color=black&style=plastic&logo=appveyor)
+![Badge4](https://img.shields.io/github/commit-activity/w/lorenzodemiri%20//Project_Snape?color=black&style=plastic&logo=appveyor)
+![Badge5](https://img.shields.io/badge/Snape-Wins-critical?color=black&style=plastic&logo=appveyor)
+
 <a href="https://timelinecovers.pro/covers/movies-and-tv/harry-potter-alan-rickman-severus-snape_facebook-cover-photo">
   <img align="right" alt="Snape" width="500px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.DAs3Z5CIy8a46qNqLXzyLAHaCv%26pid%3DApi&f=1" />
     
@@ -36,7 +42,7 @@
 
 ## Team:
     
-> [Kimberley](https://github.com/T-A-Y-L-O-R-S-T-R-I-V-E/)
+> [Kimberley](https://github.com/T-A-Y-L-O-R-S-T-R-I-V-E/) :github:
 >
 > [Bence](https://github.com/kovacsbelsen)
 >
@@ -61,7 +67,14 @@ Texting Dad      17 mins            █░░░░░░░░░░░░░�
 
 ## Technologies
 Project is created with:
-* [Python version: 3.9.1](https://www.python.org/downloads/) <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+* [Python version: 3.9.1](https://www.python.org/downloads/) <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+* Pandas==1.1.5
+* Streamlit==0.74.1
+* Distfit==1.1.6
+* Matplotlib==3.3.0
+* Numpy==1.18.4
+* Seaborn==0.10.1
+* BeautifulSoup4==4.9.3
 
 ***
 
