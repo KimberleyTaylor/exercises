@@ -23,31 +23,31 @@
 
 > **Important info:**
 >
-> Be sure to read the GUIDE HOW TO COLLAB.txt file before pushing anything!
+> :pencil: Be sure to read the GUIDE HOW TO COLLAB.txt file before pushing anything!
 
 ***
 
 ## Table of contents
-* 👨 [Team](#Team)
-* <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> [Technologies](#Technologies)
-* <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> [Syncing](#Syncing)  
+* :two_men_holding_hands: [Team](#Team)
+* <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> [Technologies](#Technologies)
+* :checkered_flag: [Syncing](#Syncing)  
 * :hammer: [Guide to Collaborate](#Guide_To_Collaborate)
-* [Project Status](#Project_Status)
+* :alarm_clock: [Project Status](#Project_Status)
 * <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" /> [Special Thanks](#Special_Thanks)
 
 ***
 
-## Team:
+## Team :two_men_holding_hands:
     
-> ![KimGit](https://img.shields.io/badge/Kimberley-Git-blue&?style=plastic&logo=github&?labelColor=grey&?logoWidth=100&?link=https://github.com/T-A-Y-L-O-R-S-T-R-I-V-E/left&link=https://github.com/T-A-Y-L-O-R-S-T-R-I-V-E/right)
+> ![KimGit](https://img.shields.io/badge/Kimberley-Git-blue&?style=plastic&logo=github&?labelColor=grey&?logoWidth=200&?link=https://github.com/T-A-Y-L-O-R-S-T-R-I-V-E/left&link=https://github.com/T-A-Y-L-O-R-S-T-R-I-V-E/right)
 >
-> ![BenceGit](https://img.shields.io/badge/Bence-Git-blue&?style=plastic&logo=github&?labelColor=grey&?logoWidth=100&?link=https://github.com/kovacsbelsen/left&link=https://github.com/kovacsbelsen/right)
+> ![BenceGit](https://img.shields.io/badge/Bence-Git-blue&?style=plastic&logo=github&?labelColor=grey&?logoWidth=200&?link=https://github.com/kovacsbelsen/left&link=https://github.com/kovacsbelsen/right)
 >
-> ![LucaGit](https://img.shields.io/badge/Luca-Git-blue&?style=plastic&logo=github&?labelColor=grey&?logoWidth=100&?link=https://github.com/lpianta/left&link=https://github.com/lpianta/right)
+> ![LucaGit](https://img.shields.io/badge/Luca-Git-blue&?style=plastic&logo=github&?labelColor=grey&?logoWidth=200&?link=https://github.com/lpianta/left&link=https://github.com/lpianta/right)
 >
-> ![ZakariyaGit](https://img.shields.io/badge/Luca-Git-blue&?style=plastic&logo=github&?labelColor=grey&?logoWidth=100&?link=https://github.com/ZakariyaM27/left&link=https://github.com/ZakariyaM27/right)
+> ![ZakariyaGit](https://img.shields.io/badge/Zakariya-Git-blue&?style=plastic&logo=github&?labelColor=grey&?logoWidth=200&?link=https://github.com/ZakariyaM27/left&link=https://github.com/ZakariyaM27/right)
 >
-> ![LorenzoGit](https://img.shields.io/badge/Luca-Git-blue&?style=plastic&logo=github&?labelColor=grey&?logoWidth=100&?link=https://github.com/lorenzodemiri/left&link=https://github.com/lorenzodemiri/right)
+> ![LorenzoGit](https://img.shields.io/badge/Lorenzo-Git-blue&?style=plastic&logo=github&?labelColor=grey&?logoWidth=100&?link=https://github.com/lorenzodemiri/left&link=https://github.com/lorenzodemiri/right)
 
 ***
     
@@ -62,20 +62,18 @@ Texting Dad      17 mins            █░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-## Technologies
+## Technologies <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 Project is created with:
-* [Python version: 3.9.1](https://www.python.org/downloads/) <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-* Pandas==1.1.5
-* Streamlit==0.74.1
-* Distfit==1.1.6
-* Matplotlib==3.3.0
-* Numpy==1.18.4
-* Seaborn==0.10.1
-* BeautifulSoup4==4.9.3
+* [Python version: 3.9.1](https://www.python.org/downloads/) <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+* [Pandas version: 1.1.5](https://pandas.pydata.org/) <img height="30" src="https://pandas.pydata.org/static/img/pandas_white.svg" />
+* [Streamlit version: 0.74.1](https://www.streamlit.io/) <img height="30" src="https://assets.website-files.com/5dc3b47ddc6c0c2a1af74ad0/5e0a328bedb754beb8a973f9_logomark_website.png" />
+* [Matplotlib version: 3.3.0](https://matplotlib.org/) <img height="30" src="https://matplotlib.org/_static/logo2_compressed.svg" /> 
+* [Numpy version: 1.18.4](https://numpy.org/)<img height="30" src="https://numpy.org/images/logos/numpy.svg" />
+* [Seaborn version: 0.10.1](https://seaborn.pydata.org/) <img height="30" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />
 
 ***
 
-## Syncing
+## Syncing :checkered_flag:
 
 1) Before starting the work of the day you have to sync with the last version of the MAIN BRANCH
 
@@ -95,7 +93,7 @@ Project is created with:
 
 ***
 
-## [Guide To Collaborate]
+## Guide To Collaborate :hammer:
 
 1) git clone https://github.com/lorenzodemiri/Project_Snape.git
 
@@ -131,13 +129,13 @@ Project is created with:
 
 ***
 
-## Project Status
-Ongoing... Day 3 of 5 complete!
+## Project Status :alarm_clock:
+Ongoing... Day 4 of 5 complete!
 
 ***
 
-### Special Thanks
-This project would not be possible without **Jan** or **Antonio.** Thankyou!
+### Special Thanks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" />
+This project would not be possible without [**Jan**](https://github.com/jcllobet) or [**Antonio**](https://github.com/AntonioMarsella) Thankyou!
 <p align="center">
 <img align="center" height="50" alt="Strive" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.alleywatch.com%2Fwp-content%2Fuploads%2F2020%2F11%2FStrive-School.jpg&f=1&nofb=1" />
 </p>
