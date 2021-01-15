@@ -1,9 +1,9 @@
 # Project_Snape! 🚀 
 !(https://img.shields.io/symfony/i/stars/lorenzodemiri%20/Project_Snape?color=Black&style=plastic&logo=appveyor)
-!(https://img.shields.io/github/issues-pr-raw/lorenzodemiri%20//Project_Snape?color=Black&style=plastic&logo=appveyor)
-!(https://img.shields.io/github/v/tag/lorenzodemiri//Project_Snape?color=black&style=plastic&logo=appveyor)
-![](https://img.shields.io/github/commit-activity/w/lorenzodemiri%20//Project_Snape?color=black&style=plastic&logo=appveyor)
-![Badge5](https://img.shields.io/badge/Snape-Wins-critical?color=black&style=plastic&logo=appveyor)
+![Badge2](https://img.shields.io/badge/Pull%20Requests-472-green&style=plastic&logo=appveyor&?labelColor=lightgrey)
+![Badge3](https://img.shields.io/badge/Followers-10%2C000%2C000-green&style=plastic&logo=appveyor&?labelColor=lightgrey)
+![Badge4](https://img.shields.io/badge/GithubCommits-50%2C000-black&style=plastic&logo=appveyor&?labelColor=lightgrey)
+![Badge5](https://img.shields.io/badge/Snape-Wins-critical?color=black&style=plastic&logo=appveyor&?labelColor=lightgrey)
 
 <a href="https://timelinecovers.pro/covers/movies-and-tv/harry-potter-alan-rickman-severus-snape_facebook-cover-photo">
   <img align="right" alt="Snape" width="500px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.DAs3Z5CIy8a46qNqLXzyLAHaCv%26pid%3DApi&f=1" />
