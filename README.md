@@ -131,13 +131,10 @@ Project is created with:
 
 ## Project Status :alarm_clock:
 Ongoing... Day 4 of 5 complete!
-![Gif](https://media.giphy.com/media/5BrdG6bhBZkaY/giphy.gif)
+
 ***
     
-
-
 ### Special Thanks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
 This project *WOULD NOT* be possible without [**Jan**](https://github.com/jcllobet) or [**Antonio**.](https://github.com/AntonioMarsella) Thankyou!
-<p align="center">
-<img align="center" height="50" alt="Strive" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.alleywatch.com%2Fwp-content%2Fuploads%2F2020%2F11%2FStrive-School.jpg&f=1&nofb=1" />
-</p>
+<img align="right" height="50" alt="Strive" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.alleywatch.com%2Fwp-content%2Fuploads%2F2020%2F11%2FStrive-School.jpg&f=1&nofb=1" />
+![Gif](https://media.giphy.com/media/5BrdG6bhBZkaY/giphy.gif)
