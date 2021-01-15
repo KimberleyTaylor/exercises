@@ -4,9 +4,7 @@
 ![Badge4](https://img.shields.io/badge/GithubCommits-50%2C000-black&style=plastic&logo=appveyor&?labelColor=grey)
 ![Badge5](https://img.shields.io/badge/Snape-Wins-critical?color=black&style=plastic&logo=appveyor&?labelColor=grey)
 
-<a href="https://timelinecovers.pro/covers/movies-and-tv/harry-potter-alan-rickman-severus-snape_facebook-cover-photo">
-  <img align="right" alt="Snape" width="500px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.DAs3Z5CIy8a46qNqLXzyLAHaCv%26pid%3DApi&f=1" />
-    
+<img height="300" width=500 src="https://media.giphy.com/media/5BrdG6bhBZkaY/giphy.gif" />
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -136,5 +134,7 @@ Ongoing... Day 4 of 5 complete!
     
 ### Special Thanks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
 This project *WOULD NOT* be possible without [**Jan**](https://github.com/jcllobet) or [**Antonio**.](https://github.com/AntonioMarsella) Thankyou!
-<img align="right" height="50" alt="Strive" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.alleywatch.com%2Fwp-content%2Fuploads%2F2020%2F11%2FStrive-School.jpg&f=1&nofb=1" />
-![Gif](https://media.giphy.com/media/5BrdG6bhBZkaY/giphy.gif)
+<img align="left" height="50" alt="Strive" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.alleywatch.com%2Fwp-content%2Fuploads%2F2020%2F11%2FStrive-School.jpg&f=1&nofb=1" />
+
+<a href="https://timelinecovers.pro/covers/movies-and-tv/harry-potter-alan-rickman-severus-snape_facebook-cover-photo">
+  <img align="right" alt="Snape" width="500px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.DAs3Z5CIy8a46qNqLXzyLAHaCv%26pid%3DApi&f=1" />
