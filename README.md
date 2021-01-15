@@ -29,7 +29,7 @@
 
 ## Table of contents
 * :two_men_holding_hands: [Team](#Team)
-* <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> [Technologies](#Technologies)
+* :floppy_disk: [Technologies](#Technologies)
 * :checkered_flag: [Syncing](#Syncing)  
 * :hammer: [Guide to Collaborate](#Guide_To_Collaborate)
 * :alarm_clock: [Project Status](#Project_Status)
@@ -62,14 +62,14 @@ Texting Dad      17 mins            █░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-## Technologies <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+## Technologies :floppy_disk:
 Project is created with:
-* [Python version: 3.9.1](https://www.python.org/downloads/) <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-* [Pandas version: 1.1.5](https://pandas.pydata.org/) <img height="30" src="https://pandas.pydata.org/static/img/pandas_white.svg" />
-* [Streamlit version: 0.74.1](https://www.streamlit.io/) <img height="30" src="https://assets.website-files.com/5dc3b47ddc6c0c2a1af74ad0/5e0a328bedb754beb8a973f9_logomark_website.png" />
-* [Matplotlib version: 3.3.0](https://matplotlib.org/) <img height="30" src="https://matplotlib.org/_static/logo2_compressed.svg" /> 
-* [Numpy version: 1.18.4](https://numpy.org/)<img height="30" src="https://numpy.org/images/logos/numpy.svg" />
-* [Seaborn version: 0.10.1](https://seaborn.pydata.org/) <img height="30" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />
+* [Python version: 3.9.1](https://www.python.org/downloads/)  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+* [Pandas version: 1.1.5](https://pandas.pydata.org/)  <img height="30" src="https://pandas.pydata.org/static/img/pandas_white.svg" />
+* [Streamlit version: 0.74.1](https://www.streamlit.io/)  <img height="20" src="https://assets.website-files.com/5dc3b47ddc6c0c2a1af74ad0/5e0a328bedb754beb8a973f9_logomark_website.png" />
+* [Matplotlib version: 3.3.0](https://matplotlib.org/)  <img height="20" src="https://matplotlib.org/_static/logo2_compressed.svg" /> 
+* [Numpy version: 1.18.4](https://numpy.org/)  <img height="30" src="https://numpy.org/images/logos/numpy.svg" />
+* [Seaborn version: 0.10.1](https://seaborn.pydata.org/)  <img height="30" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />
 
 ***
 
@@ -130,12 +130,14 @@ Project is created with:
 ***
 
 ## Project Status :alarm_clock:
-Ongoing... Day 4 of 5 complete!
+Ongoing... Day 4 of 5 complete!            ![Gif](https://media.giphy.com/media/5BrdG6bhBZkaY/giphy.gif)
 
 ***
+    
 
-### Special Thanks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" />
-This project would not be possible without [**Jan**](https://github.com/jcllobet) or [**Antonio**](https://github.com/AntonioMarsella) Thankyou!
+
+### Special Thanks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
+This project *WOULD NOT* be possible without [**Jan**](https://github.com/jcllobet) or [**Antonio**.](https://github.com/AntonioMarsella) Thankyou!
 <p align="center">
 <img align="center" height="50" alt="Strive" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.alleywatch.com%2Fwp-content%2Fuploads%2F2020%2F11%2FStrive-School.jpg&f=1&nofb=1" />
 </p>
