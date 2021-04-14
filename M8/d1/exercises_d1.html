@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HTML EXERCISES</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap" rel="stylesheet"> 
+	
+	<style>
+
+		html {
+    		margin:    0 auto;
+    		max-width: 900px;
+		}
+
+		body {
+			width: 100%;
+			text-align: center;
+			color: #6d8f65;
+			font-family: "Dela Gothic One";
+			background-image: url("background.jpg");
+			background-position: absolute;
+			/*background-size: cover;*/
+		}
+
+		h1 {
+			text-align: center;
+			color: #6d8f65;
+		}
+
+		h1:hover {
+			color: #cccc00;
+			font-size: 200%;
+		}
+
+		h2:hover {
+			color: #cccc00;
+		}
+
+      	a:link {
+        	color: #6d8f65;
+      	}
+
+      	a:hover {
+        	color: #1c87c9;
+      	}
+
+      	li:hover {
+      		color: #cccc00;
+      	}
+
+      	img:hover {
+      		width: 50%;
+      		height: 50%;
+
+      	}
+
+      	.vibrate-1:hover {
+			-webkit-animation: vibrate-1 0.3s linear infinite both;
+	        	animation: vibrate-1 0.3s linear infinite both;
+		}
+
+
+		@-webkit-keyframes vibrate-1 {
+  		0% {
+    		-webkit-transform: translate(0);
+            		transform: translate(0);
+  		}
+  		20% {
+    		-webkit-transform: translate(-2px, 2px);
+            		transform: translate(-2px, 2px);
+  		}
+  		40% {
+    		-webkit-transform: translate(-2px, -2px);
+            		transform: translate(-2px, -2px);
+  		}
+  		60% {
+    		-webkit-transform: translate(2px, 2px);
+            		transform: translate(2px, 2px);
+  		}
+  		80% {
+    		-webkit-transform: translate(2px, -2px);
+            		transform: translate(2px, -2px);
+  		}
+  		100% {
+    		-webkit-transform: translate(0);
+            		transform: translate(0);
+  		}
+		}
+		@keyframes vibrate-1 {
+  		0% {
+    		-webkit-transform: translate(0);
+            		transform: translate(0);
+  		}
+  		20% {
+    		-webkit-transform: translate(-2px, 2px);
+            		transform: translate(-2px, 2px);
+  		}
+  		40% {
+    		-webkit-transform: translate(-2px, -2px);
+            		transform: translate(-2px, -2px);
+  		}
+  		60% {
+    		-webkit-transform: translate(2px, 2px);
+            		transform: translate(2px, 2px);
+  		}
+  		80% {
+    		-webkit-transform: translate(2px, -2px);
+            		transform: translate(2px, -2px);
+  		}
+  		100% {
+    		-webkit-transform: translate(0);
+            		transform: translate(0);
+  		}
+		}
+
+
+
+      	.border {
+  			border: 5px dotted white;
+  			border-radius: 10%;
+		}
+
+		.font_size_boldness {
+			font-size: 150%;
+			font-weight: bolder;
+		}
+
+		.hide_element {
+			visibility: hidden;
+		}
+
+		.hide_content {
+			visibility: hidden;
+		}
+
+		.heartbeat:hover {
+			-webkit-animation: heartbeat 1.5s ease-in-out infinite both;
+	        		animation: heartbeat 1.5s ease-in-out infinite both;
+		}
+
+
+
+		@-webkit-keyframes heartbeat {
+  		from {
+    		-webkit-transform: scale(1);
+            		transform: scale(1);
+    		-webkit-transform-origin: center center;
+            		transform-origin: center center;
+    		-webkit-animation-timing-function: ease-out;
+            		animation-timing-function: ease-out;
+  		}
+  		10% {
+    		-webkit-transform: scale(0.91);
+            		transform: scale(0.91);
+    		-webkit-animation-timing-function: ease-in;
+            		animation-timing-function: ease-in;
+  		}
+  		17% {
+    		-webkit-transform: scale(0.98);
+            		transform: scale(0.98);
+    		-webkit-animation-timing-function: ease-out;
+            		animation-timing-function: ease-out;
+  		}
+  		33% {
+    		-webkit-transform: scale(0.87);
+            		transform: scale(0.87);
+    		-webkit-animation-timing-function: ease-in;
+            		animation-timing-function: ease-in;
+  		}
+  		45% {
+    		-webkit-transform: scale(1);
+            		transform: scale(1);
+    		-webkit-animation-timing-function: ease-out;
+            		animation-timing-function: ease-out;
+  		}
+		}
+		@keyframes heartbeat {
+  		from {
+    		-webkit-transform: scale(1);
+            		transform: scale(1);
+    		-webkit-transform-origin: center center;
+            		transform-origin: center center;
+    		-webkit-animation-timing-function: ease-out;
+            		animation-timing-function: ease-out;
+  		}
+  		10% {
+    		-webkit-transform: scale(0.91);
+            		transform: scale(0.91);
+    		-webkit-animation-timing-function: ease-in;
+            		animation-timing-function: ease-in;
+  		}
+  		17% {
+    		-webkit-transform: scale(0.98);
+            		transform: scale(0.98);
+    		-webkit-animation-timing-function: ease-out;
+            		animation-timing-function: ease-out;
+  		}
+  		33% {
+    		-webkit-transform: scale(0.87);
+            		transform: scale(0.87);
+    		-webkit-animation-timing-function: ease-in;
+            		animation-timing-function: ease-in;
+  		}
+  		45% {
+    		-webkit-transform: scale(1);
+            		transform: scale(1);
+    		-webkit-animation-timing-function: ease-out;
+            		animation-timing-function: ease-out;
+  		}
+		}
+
+
+
+
+
+		input:hover {
+        	background-color: #000000;
+      	}
+
+      	textarea:hover {
+      		background-color: #000000;
+      	}
+
+		p {
+  			margin: 20px;
+  			font-size: 90%;
+
+		}
+
+	</style>
+
+</head>
+
+
+<body class="border">
+	<div class="outer-div">
+		<h1 class="font_size_boldness">Making my first website</h1>
+		<ol>
+			<li>This is the first photo</li>
+			<a href="https://strive.school">
+         	<img class="heartbeat" alt="Summer" src="photo1.jpg"
+         	width=400" height="200">
+      		</a>
+      		<HR WIDTH="100%" SIZE="3" NOSHADE>
+			<li>This is the second photo</li>
+			<a href="https://strive.school">
+         	<img class="heartbeat" alt="Autumn" src="photo2.jpg"
+         	width=400" height="200">
+      		</a>
+      		<HR WIDTH="100%" SIZE="3" NOSHADE>
+			<li>This is the third photo</li>
+			<a href="https://strive.school">
+         	<img class="heartbeat" alt="Winter" src="photo3.jpg"
+         	width="400" height="200">
+      		</a>
+		</ol>
+	</div>
+	<HR WIDTH="100%" SIZE="5" NOSHADE>
+	<div class="outer-div">
+  		<div class="inner-div">
+    		<p>This is a paragraph!</p><br>
+    		<ul>
+    			<li class="font_size_boldness"><a href="https://app.eduflow.com">Point 1</a></li>
+    			<p>Press this point</p>
+    			<li class="font_size_boldness"><a href="https://app.eduflow.com">Point 2</a></li>
+    			<p>Or press this one</p>
+    		</ul>
+  		</div>
+	</div>
+	<HR WIDTH="100%" SIZE="5" NOSHADE>
+	<form action="/contactus.php">
+		<br><h2>Contact Us</h2><br>
+  		<label for="fname">First name:</label><br>
+  		<input type="text" id="fname" name="fname" value="Kimberley"><br>
+  		<label for="lname">Last name:</label><br>
+  		<input type="text" id="lname" name="lname" value="Taylor"><br><br>
+  		<textarea id="review of Strive School" name="review" rows="4" cols=50>Type something here!</textarea><br><br>
+  		<input class="vibrate-1" type="submit" value="Submit">
+	</form> 
+</body>
+<HR WIDTH="100%" SIZE="5" NOSHADE>
+ <footer>
+  <p>Author: Kimberley Taylor</p>
+  <p>Creator of this website</p>
+</footer> 
+</html>
