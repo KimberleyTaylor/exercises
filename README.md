@@ -17,4 +17,4 @@
 
 ---
 
-**Capstoone Project**
+**Capstone Project**
